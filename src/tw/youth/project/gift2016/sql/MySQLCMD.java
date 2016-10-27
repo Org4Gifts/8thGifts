@@ -1,7 +1,7 @@
 package tw.youth.project.gift2016.sql;
 
 public class MySQLCMD {
-	// �q�ξާ@
+	// 通用操作
 	public static final String LOGIN = "";
 	//
 	public static final String CREATE_APPLICANT = "";

@@ -1,19 +1,19 @@
 package tw.youth.project.gift2016.sql.ainventory;
 
 public class AINVENTORY {
-	// ¦h¼t§O½L¦sÀÉ
+	// å¤šå» åˆ¥ç›¤å­˜æª”
 	private String INVO;
-	// ½LÂI³æ¸¹
+	// ç›¤é»å–®è™Ÿ
 	private String FNO;
-	// Àx¦s¼t§O
+	// å„²å­˜å» åˆ¥
 	private int YYMM;
-	// ¸ê®Æ¦~¤ë
+	// è³‡æ–™å¹´æœˆ
 	private String FGNO;
-	// Â§«~½s¸¹
+	// ç¦®å“ç·¨è™Ÿ
 	private long IVQTY;
-	// ½LÂI¼Æ¶q
+	// ç›¤é»æ•¸é‡
 	private long SQTY; // auto
-	// ¨t²Î¼Æ¶q
+	// ç³»çµ±æ•¸é‡
 
 	public String getINVO() {
 		return INVO;

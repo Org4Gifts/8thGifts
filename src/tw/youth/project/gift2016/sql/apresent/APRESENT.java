@@ -1,25 +1,25 @@
 package tw.youth.project.gift2016.sql.apresent;
 
 public class APRESENT {
-	// Â§«~°ò¥»ÀÉ
+	// ç¦®å“åŸºæœ¬æª”
 	private String FGNO;
-	// Â§«~½s¸¹
+	// ç¦®å“ç·¨è™Ÿ
 	private String FGNAME;
-	// Â§«~¦WºÙ
+	// ç¦®å“åç¨±
 	private float PRC;
-	// Â§«~³æ»ù
+	// ç¦®å“å–®åƒ¹
 	private byte GRADE;
-	// Â§«~µ¥¯Å
+	// ç¦®å“ç­‰ç´š
 	private byte AUTHORITY;
-	// ¥Ó½Ğ¼h¯Å
+	// ç”³è«‹å±¤ç´š
 	private String STATUS;
-	// ¥Ó½Ğª¬ºA
+	// ç”³è«‹ç‹€æ…‹
 	private String NOTE1;
-	// ³Æµù
+	// å‚™è¨»
 	private long FQTY;
-	// ¦w¥ş®w¦s¶q
+	// å®‰å…¨åº«å­˜é‡
 	private long IQTY; // auto
-	// §Y®É®w¦s¶q
+	// å³æ™‚åº«å­˜é‡
 
 	public String getFGNO() {
 		return FGNO;

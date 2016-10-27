@@ -1,19 +1,19 @@
 package tw.youth.project.gift2016.sql.aio;
 
 public class AIODT {
-	// ¦h¼t§O¶i/¾P°ÆÀÉ
+	// å¤šå» åˆ¥é€²/éŠ·å‰¯æª”
 	private String VHNO; // auto
-	// ³æ¾Ú½s¸¹
+	// å–®æ“šç·¨è™Ÿ
 	private String FGNO;
-	// Â§«~½s¸¹
+	// ç¦®å“ç·¨è™Ÿ
 	private int QTY;
-	// ¶i¾P¼Æ¶q
+	// é€²éŠ·æ•¸é‡
 	private float PRC; // auto
-	// Â§«~³æ»ù
+	// ç¦®å“å–®åƒ¹
 	private String ORDER1;
-	// ­q³æ½s¸¹
+	// è¨‚å–®ç·¨è™Ÿ
 	private String NOTE1;
-	// ³Æµù
+	// å‚™è¨»
 
 	public String getVHNO() {
 		return VHNO;

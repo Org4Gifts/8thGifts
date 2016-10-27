@@ -1,13 +1,13 @@
 package tw.youth.project.gift2016.sql.adep;
 
 public class ADEP {
-	// ³¡ªù°ò¥»¸ê®ÆÀÉ
+	// éƒ¨é–€åŸºæœ¬è³‡æ–™æª”
 	private String DNO;
-	// ³¡ªù¥N½X
+	// éƒ¨é–€ä»£ç¢¼
 	private String DNAME;
-	// ³¡ªù¦WºÙ
+	// éƒ¨é–€åç¨±
 	private String FNO;
-	// ©Ò¦b¼t°Ï
+	// æ‰€åœ¨å» å€
 
 	public String getDNO() {
 		return DNO;

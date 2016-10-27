@@ -1,21 +1,21 @@
 package tw.youth.project.gift2016.sql.aio;
 
 public class AIO {
-	// ¦h¼t§O¶i/¾P¥DÀÉ
+	// å¤šå» åˆ¥é€²/éŠ·ä¸»æª”
 	private String VHNO;
-	// ³æ¾Ú½s¸¹
+	// å–®æ“šç·¨è™Ÿ
 	private String FNO;
-	// ¼t§O
+	// å» åˆ¥
 	private int VHDT;
-	// ³æ¾Ú¤é´Á
+	// å–®æ“šæ—¥æœŸ
 	private String ANO;
-	// ³æ¦ì½s¸¹
+	// å–®ä½ç·¨è™Ÿ
 	private char DC; // ?
-	// ¶i/¾P
+	// é€²/éŠ·
 	private float TAMT;
-	// ¶i¾Pª÷ÃB
+	// é€²éŠ·é‡‘é¡
 	private String MEMO;
-	// ½Õ¼·²z¥Ñ
+	// èª¿æ’¥ç†ç”±
 
 	public String getVHNO() {
 		return VHNO;

@@ -19,6 +19,7 @@ public class PresentSystem extends JFrame {
 		getContentPane().setLayout(null);
 		setTitle(String.format("%s - %s", SystemInfo.SYSNAME, SystemInfo.VERSION));
 		setBounds(SystemInfo.POINT_X, SystemInfo.POINT_Y, SystemInfo.WIDTH, SystemInfo.HEIGHT);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 	public synchronized boolean login(String name, String password) {

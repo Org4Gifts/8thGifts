@@ -1,17 +1,17 @@
 package tw.youth.project.gift2016.sql.aodr;
 
 public class AODR {
-	// ­q³æ¥DÀÉ
+	// è¨‚å–®ä¸»æª”
 	private String ORDER1;
-	// ­q³æ½s¸¹
+	// è¨‚å–®ç·¨è™Ÿ
 	private int ODATE;
-	// ­q©w¤é´Á
+	// è¨‚å®šæ—¥æœŸ
 	private String EMPNO;
-	// ­û¤u½s¸¹
+	// å“¡å·¥ç·¨è™Ÿ
 	private long TAMT;
-	// ­q³æª÷ÃB
+	// è¨‚å–®é‡‘é¡
 	private char PURPOSE;
-	// »İ¨D¥Øªº
+	// éœ€æ±‚ç›®çš„
 
 	public String getORDER1() {
 		return ORDER1;

@@ -1,23 +1,23 @@
 package tw.youth.project.gift2016.sql.user;
 
 public class AEMP {
-	// ­û¤u°ò¥»¸ê®ÆÀÉ
+	// å“¡å·¥åŸºæœ¬è³‡æ–™æª”
 	private String EMPNO;
-	// ¤u¸¹
+	// å·¥è™Ÿ
 	private String ENAME;
-	// ¤¤¤å©m¦W
+	// ä¸­æ–‡å§“å
 	private String EMAIL;
-	// ¹q¤l¶l¥ó¦a§}
+	// é›»å­éƒµä»¶åœ°å€
 	private String JOB;
-	// Â¾ºÙ
+	// è·ç¨±
 	private String AUTHORITY; // auto
-	// Ã±®Ö¼h¯Å
+	// ç°½æ ¸å±¤ç´š
 	private String EXT;
-	// ¤À¾÷
+	// åˆ†æ©Ÿ
 	private String MGR;
-	// ª½Äİ¥DºŞ¤u¸¹
+	// ç›´å±¬ä¸»ç®¡å·¥è™Ÿ
 	private String DNO;
-	// ³¡ªù¥N½X
+	// éƒ¨é–€ä»£ç¢¼
 
 	public String getEMPNO() {
 		return EMPNO;

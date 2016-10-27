@@ -1,33 +1,33 @@
 package tw.youth.project.gift2016.sql.avdr;
 
 public class AVDR {
-	// ¼t/«È°ò¥»¸ê®ÆÀÉ
+	// å» /å®¢åŸºæœ¬è³‡æ–™æª”
 	private String CONO;
-	// ¤½¥q½s¸¹
+	// å…¬å¸ç·¨è™Ÿ
 	private String NA;
-	// ¤½¥qÂ²ºÙ
+	// å…¬å¸ç°¡ç¨±
 	private String NAME;
-	// ¤½¥q¦WºÙ
+	// å…¬å¸åç¨±
 	private String ID;
-	// ²Î¤@½s¸¹
+	// çµ±ä¸€ç·¨è™Ÿ
 	private String BOSE;
-	// ­t³d¤H
+	// è² è²¬äºº
 	private String AGENT;
-	// ·~°È¥Nªí
+	// æ¥­å‹™ä»£è¡¨
 	private String TITLE;
-	// Â¾ºÙ
+	// è·ç¨±
 	private String TEL1;
-	// ¹q¸Ü1
+	// é›»è©±1
 	private String TEL2;
-	// ¹q¸Ü2
+	// é›»è©±2
 	private String PTEL;
-	// ¤â¾÷
+	// æ‰‹æ©Ÿ
 	private String FAX;
-	// ¶Ç¯u
+	// å‚³çœŸ
 	private String IADD;
-	// ¤½¥q¦a§}
+	// å…¬å¸åœ°å€
 	private String MEMO;
-	// ³Æµù
+	// å‚™è¨»
 
 	public String getCONO() {
 		return CONO;

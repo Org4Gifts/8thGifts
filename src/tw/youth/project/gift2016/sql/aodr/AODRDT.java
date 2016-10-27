@@ -1,19 +1,19 @@
 package tw.youth.project.gift2016.sql.aodr;
 
 public class AODRDT {
-	// ­q³æ°ÆÀÉ
+	// è¨‚å–®å‰¯æª”
 	private String ORDER1;
-	// ­q³æ½s¸¹
+	// è¨‚å–®ç·¨è™Ÿ
 	private String FGNO;
-	// ²£«~¥N¸¹
+	// ç”¢å“ä»£è™Ÿ
 	private long QTY;
-	// ²£«~¼Æ¶q
+	// ç”¢å“æ•¸é‡
 	private float PRC;
-	// ²£«~³æ»ù
+	// ç”¢å“å–®åƒ¹
 	private String NOTE1;
-	// ³Æµù
+	// å‚™è¨»
 	private long OQTY; // auto
-	// ¤w¥X³f¶q
+	// å·²å‡ºè²¨é‡
 
 	public String getORDER1() {
 		return ORDER1;

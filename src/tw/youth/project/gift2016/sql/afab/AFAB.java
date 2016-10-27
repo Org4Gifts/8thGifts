@@ -1,11 +1,11 @@
 package tw.youth.project.gift2016.sql.afab;
 
 public class AFAB {
-	// ¼t§O°ò¥»ÀÉ
+	// å» åˆ¥åŸºæœ¬æª”
 	private String FNO;
-	// ¼t§O¥N½X
+	// å» åˆ¥ä»£ç¢¼
 	private String FNAME;
-	// ¼t§O¦WºÙ
+	// å» åˆ¥åç¨±
 
 	public String getFNO() {
 		return FNO;

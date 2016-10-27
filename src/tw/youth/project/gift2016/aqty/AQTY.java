@@ -1,19 +1,19 @@
 package tw.youth.project.gift2016.aqty;
 
 public class AQTY {
-	// ¦h¼t§O¶i/¾P·JÁ`ÀÉ
+	// å¤šå» åˆ¥é€²/éŠ·å½™ç¸½æª”
 	private int YYMM; // auto
-	// ¸ê®Æ¦~¤ë
+	// è³‡æ–™å¹´æœˆ
 	private String FNO; // auto
-	// ¼t§O
+	// å» åˆ¥
 	private String FGNO; // auto
-	// Â§«~½s¸¹
+	// ç¦®å“ç·¨è™Ÿ
 	private long PMQTY; // auto
-	// ´Áªì¼Æ¶q
+	// æœŸåˆæ•¸é‡
 	private long INQTY; // auto
-	// ¥»¤ë¶i³f
+	// æœ¬æœˆé€²è²¨
 	private long UDQTY; // auto
-	// ¥»¤ë¾P³f
+	// æœ¬æœˆéŠ·è²¨
 
 	public int getYYMM() {
 		return YYMM;
