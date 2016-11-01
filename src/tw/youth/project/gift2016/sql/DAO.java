@@ -7,8 +7,8 @@ import java.sql.SQLException;
 public class DAO {
 	public DAO() {
 		try {
-//			Class.forName("com.mysql.jdbc.Driver");
-			Class.forName("com.mysql.cj.jdbc.Driver");
+			Class.forName("com.mysql.jdbc.Driver");
+//			Class.forName("com.mysql.cj.jdbc.Driver");
 		} catch (ClassNotFoundException e) {
 			System.out.println("ClassNotFoundException : " + e.getMessage());
 		}
